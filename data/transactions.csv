@@ -1,0 +1,15 @@
+date,merchant,category,amount,type
+2026-09-01,Employer Payroll,Income,5200,income
+2026-09-01,Rent Payment,Housing,2100,expense
+2026-09-03,Whole Foods,Groceries,126,expense
+2026-09-04,Shell,Transportation,54,expense
+2026-09-05,Netflix,Subscription,18,expense
+2026-09-07,Amazon,Shopping,145,expense
+2026-09-08,Electric Company,Utilities,210,expense
+2026-09-10,Uber,Transportation,42,expense
+2026-09-12,Chipotle,Dining,32,expense
+2026-09-14,Target,Shopping,85,expense
+2026-09-15,Car Payment,Transportation,480,expense
+2026-09-16,Whole Foods,Groceries,98,expense
+2026-09-18,Restaurant,Dining,85,expense
+2026-09-20,Amazon,Shopping,120,expense
